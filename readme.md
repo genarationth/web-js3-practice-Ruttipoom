@@ -8,3 +8,4 @@ divide(a, b)</br>
 
 ## -----another exercise Create Function Inform---</br>
 console.log("Hi, my name is " + firstName + "I live in " + location + "and enjoy "+hobby);
+[label](readme.md)
